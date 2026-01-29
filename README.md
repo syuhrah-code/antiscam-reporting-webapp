@@ -4,7 +4,8 @@
 ![React](https://img.shields.io/badge/React-Vite-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-3.40.0-003B57?logo=sqlite&logoColor=ffffff)<br>
+![SQLite](https://img.shields.io/badge/SQLite-3.40.0-003B57?logo=sqlite&logoColor=ffffff)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)<br>
 A full-stack prototype of an anti-scam reporting platform, made for educational purposes as an extension of my final year project- Scam Busters - a Gen-AI Scam Campaign. This project focuses on documenting and categorising modern scam techniques such as deepfake, voice spoofing, and fake news, with the goal of helping others recognize patterns and identify & avoid potential scams.
 
 <br>Features:
